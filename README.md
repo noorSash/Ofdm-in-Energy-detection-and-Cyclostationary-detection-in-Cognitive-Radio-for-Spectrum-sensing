@@ -5,10 +5,13 @@ This project simulates the performance of Orthogonal Frequency Division Multiple
 # Table of Contents
 
 Overview
+
 Technologies Used
-Installation and Setup
-How to Run the Project
+
+
 Code Structure
+
+
 Results and Visualization
 
 
