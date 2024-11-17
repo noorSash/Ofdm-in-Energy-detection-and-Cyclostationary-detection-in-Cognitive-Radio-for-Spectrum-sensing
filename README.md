@@ -1,4 +1,4 @@
-![Capture7](https://github.com/user-attachments/assets/0c6e714c-a94b-4200-a994-ca59b151f4ff)# Performance of OFDM in Energy Detection and Cyclostationary Detection for Cognitive Radio
+# Performance of OFDM in Energy Detection and Cyclostationary Detection for Cognitive Radio
 
 This project simulates the performance of Orthogonal Frequency Division Multiplexing (OFDM) in Energy Detection for Cognitive Radio (CR) systems. The goal is to assess the detection capabilities of a cognitive radio system, particularly using energy detection, while generating a dataset with both primary user (PU) activity and detection results. The dataset can be used to study the relationship between Signal-to-Noise Ratio (SNR), False Alarm Probability (P_FA), and Detection Probability (P_D).
 
@@ -58,13 +58,13 @@ Scatter Plot of Real vs Imaginary Parts of OFDM Signal: Visualizes the OFDM sign
 
 Detection Performance (P_Fa and P_D vs. SNR): Plots the False Alarm Probability (P_Fa) and Detection Probability (P_D) as a function of SNR.
 
-![Capture](https://github.com/user-attachments/assets/75457838-a5cb-41de-a5b1-12b88ca51d4b)
+[Capture](https://github.com/user-attachments/assets/75457838-a5cb-41de-a5b1-12b88ca51d4b)
 
-![Capture4](https://github.com/user-attachments/assets/d693bd7c-4e37-4ef4-98ea-a0115e032d8a)
+[Capture4](https://github.com/user-attachments/assets/d693bd7c-4e37-4ef4-98ea-a0115e032d8a)
 
-![Capture3](https://github.com/user-attachments/assets/624ed2cf-f094-4043-a33c-14f8c9390473)
+[Capture3](https://github.com/user-attachments/assets/624ed2cf-f094-4043-a33c-14f8c9390473)
 
-![Capture7](https://github.com/user-attachments/assets/9e380527-2590-4826-82f7-0b9b2ad61a3e)
+[Capture7](https://github.com/user-attachments/assets/9e380527-2590-4826-82f7-0b9b2ad61a3e)
 
 
 
